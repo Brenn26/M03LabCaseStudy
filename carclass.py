@@ -1,3 +1,8 @@
+#name brennan Morrisey
+#filename: carclass.py
+#takes vehicle informationm from the user and prints it out
+
+
 class Vehicle:
     def __init__(self):
         self.vehicleType = "car" #There is only a car, no broomsticks here!
